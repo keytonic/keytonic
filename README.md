@@ -2,7 +2,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=keytonic&theme=dark&show_icons=true)
 
 
-<a href="https://www.buymeacoffee.com/drootown" target="_blank"><img style="filter: invert(100%)" src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/drootown" target="_blank"><img style="filter: invert(0.75);" src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 <!--
