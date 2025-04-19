@@ -11,8 +11,8 @@
   <img src="https://keytonic.net/projects/buymeacoffee.svg/?backgroundcolor=212830&coffee=a52a2a&color=ffffff&border=3d444d&borderwidth=2" alt="Buy Me A Coffee" width="150" >
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://keytonic.net/projects/buymeacoffee.svg/?backgroundcolor=212830&coffee=a52a2a&color=ffffff&border=3d444d&borderwidth=2">
- <img alt="" src="https://keytonic.net/projects/buymeacoffee.svg/?backgroundcolor=ff0000&coffee=a52a2a&color=ffffff&border=3d444d&borderwidth=2">
+ <source media="(prefers-color-scheme: dark)" srcset="https://keytonic.net/projects/buymeacoffee.svg/?backgroundcolor=212830&coffee=a52a2a&color=ffffff&border=3d444d&borderwidth=2" width="150">
+ <img alt="" src="https://keytonic.net/projects/buymeacoffee.svg/?backgroundcolor=ff0000&coffee=a52a2a&color=ffffff&border=3d444d&borderwidth=2" width="150">
 </picture>
 
 
